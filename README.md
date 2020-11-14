@@ -20,3 +20,6 @@ Requisitos:
 3- Se abaixo de 50%: Apenas sinal luminoso piscando
 
 4- Se 100%: nao permite mais a entrada de agua (flag)
+
+# Grupo
+Ariana Lima, Erick Santos, Mariana melo e Thamires Alves
